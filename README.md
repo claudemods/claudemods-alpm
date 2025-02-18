@@ -37,7 +37,10 @@ you can compile and install it by using all in one command below or just head to
 
 </div>
 
-
+</div>
+</div>
+</div>
+</div>
 <div align="center">
 All In Command
  <div align="center">
