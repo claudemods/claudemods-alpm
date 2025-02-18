@@ -51,7 +51,7 @@ to compile you will need ninja and meson please install using sudo pacman -Sy ni
 
 
 <div align="center">
-All In Command
+All In One Command
  <div align="center">
 git clone https://github.com/claudemods/claudemods-alpm.git && cd claudemods-alpm && mkdir build && cd build && meson setup --prefix=/usr .. && ninja && sudo cp pacman /usr/bin
 <div align="center">
