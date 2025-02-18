@@ -32,7 +32,7 @@
 <div align="center">
 claudemods Custom Arch Linux Pacman Manager
 	<div align="center">
-Sailing the 7 seas like Arch Linux Package Manager, Apt Package Manager, And Rpm Package Manager!
+Sailing the 7 seas like Arch Linux Pacman Manager, Apt Package Manager, And Rpm Package Manager!
 		<div align="center">
 you can compile and install it by using my all in one command below 
 
