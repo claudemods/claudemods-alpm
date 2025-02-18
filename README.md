@@ -30,7 +30,7 @@
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=claudemods&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/claudemods)</div>
 
 <div align="center">
-claudemods Custom Arch Linux Package Manager
+claudemods Custom Arch Linux Pacman Manager
 	<div align="center">
 Sailing the 7 seas like Arch Linux Package Manager, Apt Package Manager, And Rpm Package Manager!
 		<div align="center">
