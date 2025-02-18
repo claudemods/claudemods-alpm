@@ -35,6 +35,9 @@ claudemods Arch Linux Package Manager
 you can compile and install it by using all in one command below or just head to releases packages and downlaod from pling
 <div align="center">
 
+</div>
+
+
 <div align="center">
 All In Command
  <div align="center">
