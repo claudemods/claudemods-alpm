@@ -38,7 +38,9 @@ you can compile and install it by using all in one command below
 
    
 <div align="center">
-to download just head to releases and downlaod from pling or download aur package claudemods-alpm or use link  https://aur.archlinux.org/packages/claudemods-alpm
+2 opions to download head over to releases to get from from pling
+<div align="center">	
+download aur package claudemods-alpm or use link  https://aur.archlinux.org/packages/claudemods-alpm
 <div align="center">
 to compile you will need ninja and meson please install using sudo pacman -Sy ninja meson
 </div>
