@@ -34,15 +34,12 @@ claudemods Arch Linux Package Manager
 	<div align="center">
 Sailing the 7 seas like Arch Linux Package Manager Apt Package Manager, And Rpm Package Manager!
 		<div align="center">
-you can compile and install it by using all in one command below or just head to releases packages and downlaod from pling
+you can compile and install it by using all in one command below or just head to releases and downlaod from pling
 <div align="center">
 to compile you will need ninja and meson please install using sudo pacman -Sy ninja meson
 </div>
 
-</div>
-</div>
-</div>
-</div>
+
 <div align="center">
 All In Command
  <div align="center">
