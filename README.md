@@ -34,10 +34,16 @@ claudemods Custom Arch Linux Package Manager
 	<div align="center">
 Sailing the 7 seas like Arch Linux Package Manager, Apt Package Manager, And Rpm Package Manager!
 		<div align="center">
-you can compile and install it by using all in one command below or just head to releases and downlaod from pling or https://aur.archlinux.org/packages/claudemods-alpm
+you can compile and install it by using all in one command below 
+
+   
+<div align="center">
+to download just head to releases and downlaod from pling or download aur package claudemods-alpm or use link  https://aur.archlinux.org/packages/claudemods-alpm
 <div align="center">
 to compile you will need ninja and meson please install using sudo pacman -Sy ninja meson
 </div>
+
+![pirate-ship](https://github.com/user-attachments/assets/7ae62fed-94b2-46e4-ac09-fc4a60ea0ff5)
 
 
 <div align="center">
