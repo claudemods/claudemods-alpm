@@ -32,9 +32,9 @@
 <div align="center">
 claudemods Arch Linux Package Manager
 	<div align="center">
-you can compile it by using all in one command below or just head to releases packages and downlaod from pling
+you can compile and install it by using all in one command below or just head to releases packages and downlaod from pling
 <div align="center">
-git clone https://github.com/claudemods/claudemods-alpm.git && cd claudemods-alpm && mkdir build && cd build && meson setup --prefix=/usr .. &&ninja
+git clone https://github.com/claudemods/claudemods-alpm.git && cd claudemods-alpm && mkdir build && cd build && meson setup --prefix=/usr .. &&ninja && sudo cp pacman /usr/bin
 
 
 
