@@ -34,7 +34,7 @@ claudemods Arch Linux Package Manager
 	<div align="center">
 you can compile and install it by using all in one command below or just head to releases packages and downlaod from pling
 <div align="center">
-
+to compile you will need ninja and meson please install using sudo pacman -Sy ninja meson
 </div>
 
 </div>
