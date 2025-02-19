@@ -40,7 +40,7 @@ this will not break pacman or your system for those who are scared of frankenste
 just backup old pacman file in /usr/bin 
    
 <div align="center">
-you have 2 options to download head over to releases to get from from pling
+you have 3 options to download head over to releases to get from from pling
 <div align="center">	
 or download aur package claudemods-alpm or use link  https://aur.archlinux.org/packages/claudemods-alpm
 <div align="center">
