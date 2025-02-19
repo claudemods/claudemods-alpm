@@ -37,18 +37,19 @@ Sailing the 7 seas like Arch Linux Pacman Manager, Apt Package Manager, And Rpm 
 you can compile and install it by using my all in one command below 
 
 this will not break pacman or your system for those who are scared of frankensteining arch
-
+just backup old pacman file in /usr/bin 
    
 <div align="center">
-2 opions to download head over to releases to get from from pling
+you have 2 opions to download head over to releases to get from from pling
 <div align="center">	
-download aur package claudemods-alpm or use link  https://aur.archlinux.org/packages/claudemods-alpm
+or download aur package claudemods-alpm or use link  https://aur.archlinux.org/packages/claudemods-alpm
 <div align="center">
 to compile you will need ninja and meson please install using sudo pacman -Sy ninja meson
 </div>
 
 ![pirate-ship](https://github.com/user-attachments/assets/7ae62fed-94b2-46e4-ac09-fc4a60ea0ff5)
-
+backup old pacman file in /usr/bin before 
+<div align="center">
 to use simple use command pacman --build "packagename" e.g apexisocreatorscript
 <div align="center">
 All In One Command below copy and paste in terminal to compile and install
