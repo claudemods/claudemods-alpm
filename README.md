@@ -93,7 +93,8 @@ echo -e "\e[38;2;255;215;0mclaudemods-alpm v7.0.0.1\e[0m" && git clone https://g
 
 ![InitialCommand](https://github.com/user-attachments/assets/4066a70a-c25e-4910-9379-5f938b3bbee1)
 ![installing](https://github.com/user-attachments/assets/a91c645e-7d58-474d-b749-55df6d90cbaa)
-![Uploading 2025-02-19-190016_hyprshot.png…]()
+![2025-02-19-190016_hyprshot](https://github.com/user-attachments/assets/ba4880af-9d1d-4d3c-a621-9ea4f799c8dd)
+
 
 
 
