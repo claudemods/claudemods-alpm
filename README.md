@@ -59,7 +59,7 @@ to use simple use command pacman --build "packagename" e.g apexisocreatorscript
 <div align="center">
 All In One Command below copy and paste in terminal to compile and install
  <div align="center">
-echo -e "\e[38;2;255;215;0mclaudemods-alpm v7.0.0.1\e[0m" && git clone https://github.com/claudemods/claudemods-alpm.git && cd claudemods-alpm && mkdir build && cd build && meson setup --prefix=/usr .. && ninja && echo -e "\e[38;2;255;215;0mBacking Up Pacman As File Named claudemods-alpm And Coping New Pacman File Named pacman\e[0m" && sudo cp /usr/bin/pacman /usr/bin/claudemods-alpm && sudo cp pacman /usr/bin && echo -e "\e[38;2;255;215;0mclaudemods-alpm v7.0.0.1 Installed\e[0m" && echo -e "\e[38;2;255;215;0mUse Command pacman --build\e[0m" && echo -e "\e[38;2;255;215;0mAnd Package Name e.g apexisocreatorscript\e[0m"
+echo -e "\e[38;2;255;215;0mclaudemods-alpm v7.0.0.1\e[0m" && git clone https://github.com/claudemods/claudemods-alpm.git && cd claudemods-alpm && mkdir build && cd build && meson setup --prefix=/usr .. && ninja && echo -e "\e[38;2;255;215;0mBacking Up Pacman As File Named claudemods-alpm And Coping New Pacman File Named pacman\e[0m" && sudo cp /usr/bin/pacman /usr/bin/claudemods-alpm && sudo cp pacman /usr/bin && echo -e "\e[38;2;255;215;0mclaudemods-alpm v7.0.0.1 Installed\e[0m" && echo -e "\e[38;2;255;215;0mUse Command pacman --build\e[0m" && echo -e "\e[38;2;255;215;0mAnd A Package Name e.g apexisocreatorscript\e[0m"
 <div align="center">
 
 
@@ -93,7 +93,8 @@ echo -e "\e[38;2;255;215;0mclaudemods-alpm v7.0.0.1\e[0m" && git clone https://g
 
 ![InitialCommand](https://github.com/user-attachments/assets/4066a70a-c25e-4910-9379-5f938b3bbee1)
 ![installing](https://github.com/user-attachments/assets/a91c645e-7d58-474d-b749-55df6d90cbaa)
-![2025-02-19-190016_hyprshot](https://github.com/user-attachments/assets/ba4880af-9d1d-4d3c-a621-9ea4f799c8dd)
+![2025-02-19-190223_hyprshot](https://github.com/user-attachments/assets/3487fb70-e696-4d1a-a813-ef6bc53c2e2e)
+
 
 
 
