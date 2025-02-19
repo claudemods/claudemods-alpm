@@ -50,6 +50,7 @@ to compile you will need ninja and meson please install using sudo pacman -Sy ni
 
 
 <div align="center">
+	
 ![pirate-ship](https://github.com/user-attachments/assets/7ae62fed-94b2-46e4-ac09-fc4a60ea0ff5)
 
 <div align="center">
