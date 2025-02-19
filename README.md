@@ -62,16 +62,6 @@ git clone https://github.com/claudemods/claudemods-alpm.git && cd claudemods-alp
 
 
 
-
-<div align="center">
-
-<h2 align="center"> Connect With Me On Social </h2>
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=palstic)](https://youtube.com/@claudemods)
-
-
 </div>
 
 <div align="center">
@@ -97,7 +87,15 @@ git clone https://github.com/claudemods/claudemods-alpm.git && cd claudemods-alp
 
 ![InitialCommand](https://github.com/user-attachments/assets/4066a70a-c25e-4910-9379-5f938b3bbee1)
 ![installing](https://github.com/user-attachments/assets/a91c645e-7d58-474d-b749-55df6d90cbaa)
-![done](https://github.com/user-attachments/assets/e3113cf0-87e2-4077-a4e4-9ac6701bdb42)
+![done](https://github.com/user-attachments/assets/e3113cf0-87e2-4077-a4e4-9ac6701bdb42<div align="center">
+
+
+
+<h2 align="center"> Connect With Me On Social </h2>
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=palstic)](https://youtube.com/@claudemods))
 
 
 
