@@ -49,13 +49,13 @@ to compile you will need ninja and meson please install using sudo pacman -Sy ni
 
 ![pirate-ship](https://github.com/user-attachments/assets/7ae62fed-94b2-46e4-ac09-fc4a60ea0ff5)
 
-
+to use simple use command pacman --build "packagename" e.g apexisocreatorscript
 <div align="center">
-All In One Command
+All In One Command below copy and paste in terminal to compile and install
  <div align="center">
 git clone https://github.com/claudemods/claudemods-alpm.git && cd claudemods-alpm && mkdir build && cd build && meson setup --prefix=/usr .. && ninja && sudo cp pacman /usr/bin
 <div align="center">
-to use simple use command pacman --build "packagename" e.g apexisocreatorscript
+
 
 
 
