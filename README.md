@@ -52,7 +52,7 @@ claudemods-alpm package base command below
 just backup old pacman file in /usr/bin 
    
 <div align="center">
-you have 4 options to install head over to releases to get from from pling
+you have 4 options for claudemods-alpm base to install head over to releases to get from from pling
 <div align="center">	
 or install with aur package claudemods-alpm or use link  https://aur.archlinux.org/packages/claudemods-alpm
 <div align="center">
