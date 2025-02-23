@@ -81,7 +81,8 @@ git clone https://github.com/claudemods/claudemods-alpm && cd claudemods-alpm &&
  
 			
    <div align="center">
-   ![pirate-ship](https://github.com/user-attachments/assets/7ae62fed-94b2-46e4-ac09-fc4a60ea0ff5)
+   
+![pirate-ship](https://github.com/user-attachments/assets/7ae62fed-94b2-46e4-ac09-fc4a60ea0ff5)
    
    
 
