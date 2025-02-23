@@ -1,0 +1,2 @@
+bin_PROGRAMS += alpm
+src_alpm_SOURCES = src/alpm.c
