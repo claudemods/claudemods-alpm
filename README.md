@@ -68,9 +68,9 @@ claudemods-coreutils v1.0 build 23-02-2025
 <div align="center">
 changelog 20:08 aur support added use command alpm "packagename"
 <div align="center">
-many more commands e.g makeiso mksquashfs apexisocreatorscript ect  ... 
+many more commands e.g makeiso mksquashfs apexisocreatorscript ect  ... i will be added soon
 	<div align="center">
-	i will be added soon im adding linux and linux zen kernels to project and also adding bash
+	 im adding linux and linux zen kernels to project and also adding bash
 	<div align="center">
 the aim is to be a all in one custom system and provide a stable base 
 		<div align="center">
