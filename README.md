@@ -75,7 +75,7 @@ the aim is to be a all in one custom system and provide a stable base
 		<div align="center">
  more to come also find claudemods-alpm current install for pacman package below
    <div align="center">
-   all in one command to compile
+   all in one current command to compile claudemods-coreutils
    <div align="center">
 git clone https://github.com/claudemods/claudemods-alpm && cd claudemods-alpm && cd claudemods-coreutils && sudo chmod +x * && cd build-aux && sudo chmod +x * && cd /home/$USER/claudemods-alpm && cd claudemods-coreutils/ && sudo ./bootstrap && ./configure && sudo make
 
@@ -87,7 +87,7 @@ git clone https://github.com/claudemods/claudemods-alpm && cd claudemods-alpm &&
 <div align="center">
 to use simple use command pacman --build "packagename" e.g apexisocreatorscript
 <div align="center">
-All In One Command below copy and paste in terminal to compile and install
+All In One current Command for claudemods-alpm below copy and paste in terminal to compile and install
  <div align="center">
 echo -e "\e[38;2;255;215;0mclaudemods-alpm v7.0.0.1\e[0m" && git clone https://github.com/claudemods/claudemods-alpm.git && cd claudemods-alpm && mkdir build && cd build && meson setup --prefix=/usr .. && ninja && echo -e "\e[38;2;255;215;0mBacking Up Pacman As File Named claudemods-alpm And Coping New Pacman File Named pacman\e[0m" && sudo cp /usr/bin/pacman /usr/bin/claudemods-alpm && sudo cp pacman /usr/bin && sudo rm -rf /home/$USER/claudemods-alpm && echo -e "\e[38;2;255;215;0mclaudemods-alpm v7.0.0.1 Installed\e[0m" && echo -e "\e[38;2;255;215;0mUse Command pacman --build\e[0m" && echo -e "\e[38;2;255;215;0mAnd A Package Name e.g apexisocreatorscript\e[0m"
 <div align="center">
