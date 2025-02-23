@@ -31,6 +31,9 @@
 
 <div align="center">
 claudemods Custom Arch Linux Pacman Manager System
+	
+<div align="center">
+Sailing the 7 seas like Arch, KdeLinux, Kdeneon, Ubuntu, Debian, Arch Linux Pacman Manager, Apt Package Manager, And Rpm Package Manager!
 	<div align="center">
 Sailing the 7 seas like Arch Linux Pacman Manager, Apt Package Manager, And Rpm Package Manager!
 		<div align="center">
