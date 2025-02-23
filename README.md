@@ -72,13 +72,18 @@ the aim is to be a all in one custom system and provide a stable base
 		will be downloadable and installable and you can install your own desktop ect...
 				<div align="center">
 				but the pacman the kernel coreutils and bash ect will be updated as one seperatly from other packages keeping you running 
-		<div align="center">
- more to come also find claudemods-alpm current install for pacman package below
-   <div align="center">
+		   <div align="center">
    all in one current command to compile claudemods-coreutils
    <div align="center">
 git clone https://github.com/claudemods/claudemods-alpm && cd claudemods-alpm && cd claudemods-coreutils && sudo chmod +x * && cd build-aux && sudo chmod +x * && cd /home/$USER/claudemods-alpm && cd claudemods-coreutils/ && sudo ./bootstrap && ./configure && sudo make
-
+	<div align="center">
+ more to come also find claudemods-alpm current install for pacman package below
+ 
+			
+   <div align="center">
+   ![pirate-ship](https://github.com/user-attachments/assets/7ae62fed-94b2-46e4-ac09-fc4a60ea0ff5)
+   
+   
 
 
 
