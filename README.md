@@ -30,7 +30,7 @@
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=claudemods&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/claudemods)</div>
 
 <div align="center">
-claudemods Custom Apex Linux Pacman Manager System
+claudemods Apex Linux Pacman Manager System
 	
 <div align="center">
 Sailing the 7 seas like Arch, KdeLinux, Kdeneon, Ubuntu, Debian, Arch Linux Pacman Manager, Apt Package Manager, And Rpm Package Manager!
