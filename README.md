@@ -76,16 +76,16 @@ the aim is to be a all in one custom system and provide a stable base
    all in one current command to compile claudemods-coreutils
    <div align="center">
 git clone https://github.com/claudemods/claudemods-alpm && cd claudemods-alpm && cd claudemods-coreutils && sudo chmod +x * && cd build-aux && sudo chmod +x * && cd /home/$USER/claudemods-alpm && cd claudemods-coreutils/ && sudo ./bootstrap && ./configure && sudo make
-	<div align="center">
- more to come also find claudemods-alpm current install for pacman package below
+
  
 			
    <div align="center">
    
 ![pirate-ship](https://github.com/user-attachments/assets/7ae62fed-94b2-46e4-ac09-fc4a60ea0ff5)
    
-   
-
+   	
+<div align="center">
+ more to come also find claudemods-alpm current install for pacman package below
 
 
 
