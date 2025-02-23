@@ -64,6 +64,27 @@ echo -e "\e[38;2;255;215;0mclaudemods-alpm v7.0.0.1\e[0m" && git clone https://g
 
 
 
+claudemods-coreutils v1.0 build 23-02-2025
+<div align="center">
+changelog 20:08 aur support added use command alpm "packagename"
+<div align="center">
+many more commands e.g makeiso mksquashfs apexisocreatorscript ect  ... 
+	<div align="center">
+	i will be added soon im adding linux and linux zen kernels to project and also adding bash
+	<div align="center">
+the aim is to be a all in one custom system and provide a stable base 
+		<div align="center">
+	thats tested and only update after things are tested core images of the base system 
+			<div align="center">
+		will be downloadable and installable and you can install your own desktop ect...
+				<div align="center">
+				but the pacman the kernel coreutils and bash ect will be updated as one seperatly from other packages keeping you running 
+		<div align="center">
+all in one command to compile
+   <div align="center">
+git clone https://github.com/claudemods/claudemods-alpm && cd claudemods-alpm && cd claudemods-coreutils && sudo chmod +x * && cd build-aux && sudo chmod +x * && cd /home/$USER/claudemods-alpm && cd claudemods-coreutils/ && sudo ./bootstrap && ./configure && sudo make
+
+
 
 
 
