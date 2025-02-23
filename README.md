@@ -33,7 +33,9 @@
 claudemods Apex Linux Pacman Manager System
 	
 <div align="center">
-Sailing the 7 seas like Arch, KdeLinux, Kdeneon, Ubuntu, Debian, Arch Linux Pacman Manager, Apt Package Manager, And Rpm Package Manager!
+Sailing the 7 seas 
+	<div align="center">
+	like Arch, KdeLinux, Kdeneon, Ubuntu, Debian, Arch Linux Pacman Manager, Apt Package Manager, And Rpm Package Manager!
 		<div align="center">
 	the aim is to be a all in one custom system and provide a stable base 
 		<div align="center">
