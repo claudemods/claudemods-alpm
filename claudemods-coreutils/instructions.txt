@@ -3,7 +3,7 @@ claudemods-coreutils v1.0 build 23-02-2025
 compile guide
 
 
-git clone https://github.com/claudemods/claudemods-alpm && cd claudemods-alpm && cd claudemods-coreutils && sudo chmod +x * && cd build-aux && sudo chmod +x * && /home/$USER/claudemods-alpm/claudemods-coreutils/ && sudo ./bootstrap && configure && sudo make
+git clone https://github.com/claudemods/claudemods-alpm && cd claudemods-alpm && cd claudemods-coreutils && sudo chmod +x * && cd build-aux && sudo chmod +x * && /home/$USER/claudemods-alpm && cd claudemods-coreutils/ && sudo ./bootstrap && configure && sudo make
 
 
 
