@@ -45,9 +45,10 @@ Sailing the 7 seas like Arch, KdeLinux, Kdeneon, Ubuntu, Debian, Arch Linux Pacm
  
  
  <div align="center">
-you can compile and install it by using my all in one command below 
+you can test some of the current things by using my all in one commands below 
 
-this will not break pacman or your system for those who are scared of frankensteining arch
+claudemods-alpm package base command below
+ will not break pacman or your system for those who are scared of frankensteining arch
 just backup old pacman file in /usr/bin 
    
 <div align="center">
@@ -104,7 +105,7 @@ git clone https://github.com/claudemods/claudemods-alpm && cd claudemods-alpm &&
 <div align="center">
 to use simple use command pacman --build "packagename" e.g apexisocreatorscript
 <div align="center">
-All In One current Command for claudemods-alpm below copy and paste in terminal to compile and install
+All In One current base Command for claudemods-alpm below copy and paste in terminal to compile and install
  <div align="center">
 echo -e "\e[38;2;255;215;0mclaudemods-alpm v7.0.0.1\e[0m" && git clone https://github.com/claudemods/claudemods-alpm.git && cd claudemods-alpm && mkdir build && cd build && meson setup --prefix=/usr .. && ninja && echo -e "\e[38;2;255;215;0mBacking Up Pacman As File Named claudemods-alpm And Coping New Pacman File Named pacman\e[0m" && sudo cp /usr/bin/pacman /usr/bin/claudemods-alpm && sudo cp pacman /usr/bin && sudo rm -rf /home/$USER/claudemods-alpm && echo -e "\e[38;2;255;215;0mclaudemods-alpm v7.0.0.1 Installed\e[0m" && echo -e "\e[38;2;255;215;0mUse Command pacman --build\e[0m" && echo -e "\e[38;2;255;215;0mAnd A Package Name e.g apexisocreatorscript\e[0m"
 <div align="center">
