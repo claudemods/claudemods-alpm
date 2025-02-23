@@ -35,6 +35,16 @@ claudemods Custom Arch Linux Pacman Manager System
 <div align="center">
 Sailing the 7 seas like Arch, KdeLinux, Kdeneon, Ubuntu, Debian, Arch Linux Pacman Manager, Apt Package Manager, And Rpm Package Manager!
 		<div align="center">
+	the aim is to be a all in one custom system and provide a stable base 
+		<div align="center">
+	thats tested and only update after things are tested core images of the base system 
+			<div align="center">
+		will be downloadable and installable and you can install your own desktop ect...
+				<div align="center">
+				but the pacman the kernel coreutils and bash ect will be updated as one seperatly from other packages keeping you running 
+ 
+ 
+ <div align="center">
 you can compile and install it by using my all in one command below 
 
 this will not break pacman or your system for those who are scared of frankensteining arch
