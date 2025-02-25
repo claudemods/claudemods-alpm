@@ -3,23 +3,30 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>   // For isalnum()
-#include <stdbool.h>
-// For bool
+#include <stdbool.h> // For bool
 
 int main(int argc, char *argv[]) {
+    // Print the header in bright teal
+    printf("\033[96m"); // Set color to bright teal
+    printf("Apex Linux Package Manager System v1.0 Build 25-02-2025\n");
+    printf("\033[0m"); // Reset color to default
+
     if (argc < 2) {
-        fprintf(stderr, "Usage: alpm <command> [args]\n");
-        fprintf(stderr, "Commands:\n");
-        fprintf(stderr, "  reboot            - Reboot the system\n");
-        fprintf(stderr, "  shutdown          - Shutdown the system\n");
-        fprintf(stderr, "  repo list         - List repositories\n");
-        fprintf(stderr, "  makeiso <script>  - Create ISO using a script\n");
-        fprintf(stderr, "  makeisogui        - Create ISO using a GUI script\n");
-        fprintf(stderr, "  installscript     - Run installation script\n");
-        fprintf(stderr, "  installer         - Run installation GUI\n");
-        fprintf(stderr, "  update            - Run system updater\n");
-        fprintf(stderr, "  browser           - Launch browser\n");
-        fprintf(stderr, "  install <package> - Install an AUR package\n");
+        // Print the usage and commands in gold
+        printf("\033[93m"); // Set color to gold
+        printf("Usage: alpm <command> [args]\n");
+        printf("Commands:\n");
+        printf("  reboot            - Reboot the system\n");
+        printf("  shutdown          - Shutdown the system\n");
+        printf("  repo list         - List repositories\n");
+        printf("  makeiso <script>  - Create ISO using a script\n");
+        printf("  makeisogui        - Create ISO using a GUI script\n");
+        printf("  installscript     - Run installation script\n");
+        printf("  installer         - Run installation GUI\n");
+        printf("  update            - Run system updater\n");
+        printf("  browser           - Launch browser\n");
+        printf("  install <package> - Install an AUR package\n");
+        printf("\033[0m"); // Reset color to default
         return EXIT_FAILURE;
     }
 
