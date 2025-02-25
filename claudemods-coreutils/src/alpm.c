@@ -19,7 +19,7 @@ int main(int argc, char *argv[]) {
         printf("  reboot            - Reboot the system\n");
         printf("  shutdown          - Shutdown the system\n");
         printf("  repo list         - List repositories\n");
-        printf("  makeiso <script>  - Create ISO using a script\n");
+        printf("  makeiso           - Create ISO using a script\n");
         printf("  makeisogui        - Create ISO using a GUI script\n");
         printf("  installscript     - Run installation script\n");
         printf("  installer         - Run installation GUI\n");
@@ -42,9 +42,9 @@ int main(int argc, char *argv[]) {
     } else if (strcmp(command, "repo") == 0 && argc > 2 && strcmp(argv[2], "list") == 0) {
         // List repositories
         snprintf(system_command, sizeof(system_command), "/usr/local/bin/repolist.sh");
-    } else if (strcmp(command, "makeiso") == 0 && argc > 2) {
+    } else if (strcmp(command, "makeiso") == 0) {
         // Create ISO using a script
-        snprintf(system_command, sizeof(system_command), "./apexisocreatorscript.bin %s", argv[2]);
+        snprintf(system_command, sizeof(system_command), "./apexisocreatorscript.bin");
     } else if (strcmp(command, "makeisogui") == 0) {
         // Create ISO using a GUI script
         snprintf(system_command, sizeof(system_command), "./apexisocreatorgui.bin");
