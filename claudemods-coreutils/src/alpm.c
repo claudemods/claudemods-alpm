@@ -275,7 +275,7 @@ int main(int argc, char *argv[]) {
     } else if (strcmp(command, "installer") == 0) {
         // Run installation GUI
         char system_command[1024];
-        snprintf(system_command, sizeof(system_command), "apexinstallgui.bin");
+        snprintf(system_command, sizeof(system_command), "apexinstallgui");
         system(system_command);
     } else if (strcmp(command, "update") == 0) {
         if (argc > 2 && strcmp(argv[2], "aur") == 0) {
