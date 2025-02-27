@@ -261,28 +261,28 @@ int main(int argc, char *argv[]) {
     } else if (strcmp(command, "makeiso") == 0) {
         // Create ISO using a script
         char system_command[1024];
-        snprintf(system_command, sizeof(system_command), "./apexisocreatorscript.bin");
+        snprintf(system_command, sizeof(system_command), "apexisocreatorscript.bin");
         system(system_command);
     } else if (strcmp(command, "makeisogui") == 0) {
         // Create ISO using a GUI script
         char system_command[1024];
-        snprintf(system_command, sizeof(system_command), "./apexisocreatorgui.bin");
+        snprintf(system_command, sizeof(system_command), "apexisocreatorgui.bin");
         system(system_command);
     } else if (strcmp(command, "installscript") == 0) {
         // Run installation script
         char system_command[1024];
-        snprintf(system_command, sizeof(system_command), "./apexinstallerescript");
+        snprintf(system_command, sizeof(system_command), "apexinstallerescript");
         system(system_command);
     } else if (strcmp(command, "installer") == 0) {
         // Run installation GUI
         char system_command[1024];
-        snprintf(system_command, sizeof(system_command), "./apexinstallgui.bin");
+        snprintf(system_command, sizeof(system_command), "apexinstallgui.bin");
         system(system_command);
     } else if (strcmp(command, "update") == 0) {
         if (argc > 2 && strcmp(argv[2], "aur") == 0) {
             // Update AUR packages
             char system_command[1024];
-            snprintf(system_command, sizeof(system_command), "./apexupdater.bin update aur");
+            snprintf(system_command, sizeof(system_command), "apexupdater.bin update aur");
             system(system_command);
         } else {
             // Update system packages
@@ -291,7 +291,7 @@ int main(int argc, char *argv[]) {
     } else if (strcmp(command, "browser") == 0) {
         // Launch browser
         char system_command[1024];
-        snprintf(system_command, sizeof(system_command), "./apexbrowser");
+        snprintf(system_command, sizeof(system_command), "apexbrowser");
         system(system_command);
     } else if (strcmp(command, "install") == 0 && argc > 2) {
         // Install an AUR package
@@ -307,7 +307,7 @@ int main(int argc, char *argv[]) {
 
         // Use ./installpackage.bin to install the package
         char system_command[1024];
-        snprintf(system_command, sizeof(system_command), "./installpackage.bin %s", package_name);
+        snprintf(system_command, sizeof(system_command), "apexsysutils.bin %s", package_name);
 
         // Debugging: Print the command to verify it's correct
         printf("Executing command: %s\n", system_command);
