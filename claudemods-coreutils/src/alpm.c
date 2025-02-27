@@ -260,12 +260,12 @@ int main(int argc, char *argv[]) {
     } else if (strcmp(command, "makeiso") == 0) {
         // Create ISO using a script
         char system_command[1024];
-        snprintf(system_command, sizeof(system_command), "apexisocreatorscript.bin");
+        snprintf(system_command, sizeof(system_command), "apexisocreatorscript");
         system(system_command);
     } else if (strcmp(command, "makeisogui") == 0) {
         // Create ISO using a GUI script
         char system_command[1024];
-        snprintf(system_command, sizeof(system_command), "apexisocreatorgui.bin");
+        snprintf(system_command, sizeof(system_command), "apexisocreatorgui");
         system(system_command);
     } else if (strcmp(command, "installscript") == 0) {
         // Run installation script
