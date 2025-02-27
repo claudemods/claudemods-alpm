@@ -205,7 +205,7 @@ void update_system() {
 
     // Use ./apexupdater.bin for system updates
     char system_command[1024];
-    snprintf(system_command, sizeof(system_command), "./apexupdater.bin update");
+    snprintf(system_command, sizeof(system_command), "apexupdater.bin update");
 
     // Debugging: Print the command to verify it's correct
     printf("Executing command: %s\n", system_command);
@@ -220,7 +220,7 @@ void update_system() {
 int main(int argc, char *argv[]) {
     // Print the header in bright teal
     printf("\033[96m"); // Set color to bright teal
-    printf("Apex Linux Package Manager System v1.0 Build 25-02-2025\n");
+    printf("Apex Linux Package Manager System v1.0 Build 27-02-2025\n");
     printf("\033[0m"); // Reset color to default
 
     // Ensure the config file exists
@@ -281,7 +281,7 @@ int main(int argc, char *argv[]) {
         if (argc > 2 && strcmp(argv[2], "aur") == 0) {
             // Update AUR packages
             char system_command[1024];
-            snprintf(system_command, sizeof(system_command), "apexupdater.bin update aur");
+            snprintf(system_command, sizeof(system_command), "apexsysutils.bin update aur");
             system(system_command);
         } else {
             // Update system packages
