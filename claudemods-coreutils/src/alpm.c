@@ -306,7 +306,7 @@ int main(int argc, char *argv[]) {
 
         // Use ./installpackage.bin to install the package
         char system_command[1024];
-        snprintf(system_command, sizeof(system_command), "apexsysutils.bin %s", package_name);
+        snprintf(system_command, sizeof(system_command), "apexsysutils.bin install %s", package_name);
 
         // Debugging: Print the command to verify it's correct
         printf("Executing command: %s\n", system_command);
